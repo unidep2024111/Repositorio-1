@@ -12,9 +12,20 @@ namespace POO1
 {
     public partial class Form1 : Form
     {
+        int resultado = 0 ;
         public Form1()
         {
-            InitializeComponent();
+           
+            var num1 = 7;   
+            var num2 = 5;
+            int resultado = Suma(num1, num2);
+        }
+
+        private int Suma(int a, int b)
+        {
+          int totalsuma = a + b;
+          return totalsuma;
+                
         }
     }
 }

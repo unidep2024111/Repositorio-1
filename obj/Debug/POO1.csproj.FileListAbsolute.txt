@@ -1,0 +1,5 @@
+C:\Users\Vizm4\OneDrive\Documents\POO1\POO1\obj\Debug\POO1.csproj.AssemblyReference.cache
+C:\Users\Vizm4\OneDrive\Documents\POO1\POO1\obj\Debug\POO1.Form1.resources
+C:\Users\Vizm4\OneDrive\Documents\POO1\POO1\obj\Debug\POO1.Properties.Resources.resources
+C:\Users\Vizm4\OneDrive\Documents\POO1\POO1\obj\Debug\POO1.csproj.GenerateResource.cache
+C:\Users\Vizm4\OneDrive\Documents\POO1\POO1\obj\Debug\POO1.csproj.CoreCompileInputs.cache
